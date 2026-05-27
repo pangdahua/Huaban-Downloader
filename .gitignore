@@ -3,6 +3,7 @@ __pycache__/
 
 # Project specific
 huaban/
+huohuab/
 release/
 api.md
 .gradio
